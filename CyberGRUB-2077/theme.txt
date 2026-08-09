@@ -14,11 +14,11 @@ terminal-border: "0"
 + label {
 	font = "Rajdhani Regular 32"
 	left = 0%
-	top = 8
+	top = 10
 	width = 100%
 	align = "center"
 	color = "#842624"
-	text = "GNU GRAND UNIFIED BOOTLOADER VER. 2.2"
+	text = "Se tiver que matar... Mate. Se tiver que queimar tudo até as cinzas... Então queime."
 }
 
 + label {
@@ -49,7 +49,7 @@ terminal-border: "0"
 	top = 48
 	width = 100%
 	color = "#842624"
-	text = "[ >> ] SELECT OPERATING SYSTEM"
+	text = "[ >> ] SELECIONE O SISTEMA OPERACIONAL"
 }
 
 + label {
@@ -58,7 +58,7 @@ terminal-border: "0"
 	top = 66
 	width = 100%
 	color = "#842624"
-	text = "[      ] LOAD OPERATING SYSTEM"
+	text = "[      ] INICIAR SISTEMA OPERACIONAL"
 }
 
 + label {
@@ -67,7 +67,7 @@ terminal-border: "0"
 	top = 84
 	width = 100%
 	color = "#842624"
-	text = "[      ] LOAD INITRAMFS"
+	text = "[      ] INICIAR INITRAMFS"
 }
 
 # boot menu
@@ -111,7 +111,7 @@ terminal-border: "0"
 	top = 100%-136
 	width = 100%
 	color = "#842624"
-	text = " ↑↓ - NAVIGATE"
+	text = " ↑↓ - NAVEGAR"
 }
 
 + label {
@@ -120,7 +120,7 @@ terminal-border: "0"
 	top = 100%-112
 	width = 100%
 	color = "#842624"
-	text = "<-' - CONFIRM"
+	text = "<-' - CONFIRMAR"
 }
 
 + label {
@@ -129,7 +129,7 @@ terminal-border: "0"
 	top = 100%-86
 	width = 100%
 	color = "#842624"
-	text = " E  - OPTIONS"
+	text = " E  - OPÇÕES"
 }
 
 + label {
@@ -138,5 +138,5 @@ terminal-border: "0"
 	top = 100%-60
 	width = 100%
 	color = "#842624"
-	text = " C  - COMMAND LINE"
+	text = " C  - CONSOLE DE COMANDO"
 }
