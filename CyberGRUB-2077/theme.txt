@@ -14,7 +14,7 @@ terminal-border: "0"
 + label {
 	font = "Rajdhani Regular 32"
 	left = 0%
-	top = 10
+	top = 14
 	width = 100%
 	align = "center"
 	color = "#842624"
@@ -24,11 +24,11 @@ terminal-border: "0"
 + label {
 	font = "Rajdhani Regular 24"
 	left = 0%
-	top = 42
+	top = 48
 	width = 100%
 	align = "center"
 	color = "#f75d54"
-	text = "[DISPLAY 1]"
+	text = "Cyberpunk 2077"
 }
 
 + image {
